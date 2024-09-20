@@ -5,6 +5,13 @@ All notable changes to CloudQuery will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [6.8.1](https://github.com/cloudquery/cloudquery/compare/cli-v6.8.0...cli-v6.8.1) (2024-09-20)
+
+
+### Bug Fixes
+
+* Shutdown OTEL receiver after plugins shutdown ([#19221](https://github.com/cloudquery/cloudquery/issues/19221)) ([2582deb](https://github.com/cloudquery/cloudquery/commit/2582deb3cade19e585a5a3c0bfd2a321e50b9d13))
+
 ## [6.8.0](https://github.com/cloudquery/cloudquery/compare/cli-v6.7.1...cli-v6.8.0) (2024-09-19)
 
 
